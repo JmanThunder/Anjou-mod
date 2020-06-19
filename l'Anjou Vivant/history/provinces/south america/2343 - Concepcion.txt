@@ -1,0 +1,4 @@
+owner = CST
+controller = CST
+add_core = CST
+add_core = PRGtrade_goods = fruitlife_rating = 31

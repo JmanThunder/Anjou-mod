@@ -1,0 +1,6 @@
+owner = ATQ
+controller = ATQ
+add_core = ATQ
+trade_goods = tropical_wood
+terrain = savanna
+life_rating = 25

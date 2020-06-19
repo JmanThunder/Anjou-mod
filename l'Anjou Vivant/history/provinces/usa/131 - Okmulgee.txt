@@ -1,0 +1,15 @@
+owner = ULA
+controller = ULA
+add_core = ULA
+
+trade_goods = grain
+life_rating = 35
+terrain = americas_st_forest
+is_slave = yes
+
+1861.1.1 = {
+	owner = CSA
+	controller = CSA
+	add_core = CSA
+	add_core = USA
+}

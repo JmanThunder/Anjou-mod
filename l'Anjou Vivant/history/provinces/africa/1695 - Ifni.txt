@@ -1,0 +1,12 @@
+owner = ALL
+controller = ALL
+add_core = ALL
+add_core = MOR
+trade_goods = fish
+life_rating = 30
+terrain = semidesert
+1861.1.1 = {
+	owner = SPA
+	controller = SPA
+	
+}

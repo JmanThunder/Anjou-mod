@@ -1,0 +1,8 @@
+owner = ULA
+controller = ULA
+add_core = ULA
+add_core = DAK
+trade_goods = grain
+life_rating = 35
+
+1861.1.1 = { colonial = 0 }

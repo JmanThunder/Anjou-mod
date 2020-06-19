@@ -1,0 +1,7 @@
+owner = TIB
+controller = TIB
+add_core = TIB
+add_core = DAI
+trade_goods = grain
+life_rating = 34
+terrain = jungle_farmland

@@ -1,0 +1,8 @@
+owner = MAH
+controller = MAH
+add_core = MAH
+add_core = BAS
+add_core = ORI
+add_core = HND
+trade_goods = tobacco
+life_rating = 32

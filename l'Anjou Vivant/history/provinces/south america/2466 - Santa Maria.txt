@@ -1,0 +1,9 @@
+owner = ATQ
+controller = ATQ
+add_core = ATQ
+trade_goods = timber
+life_rating = 35
+1860.1.1 = {
+	owner = BRZ
+	controller = BRZ
+}

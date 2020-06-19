@@ -1,0 +1,8 @@
+owner = KON
+controller = KON
+add_core = KON
+add_core = KZB
+trade_goods = cattle
+life_rating = 10
+
+

@@ -1,0 +1,8 @@
+owner = FCA
+controller = FCA
+add_core = FCA
+trade_goods = coal
+life_rating = 35
+
+terrain = americas_prairie
+1861.1.1 = { colonial = 0 }

@@ -1,0 +1,8 @@
+owner = POR
+controller = POR
+add_core = LST
+add_core = YUC
+add_core = TBS
+trade_goods = coffee
+life_rating = 30
+terrain = americas_jungle

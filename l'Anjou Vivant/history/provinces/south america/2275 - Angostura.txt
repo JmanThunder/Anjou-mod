@@ -1,0 +1,5 @@
+owner = KVD
+controller = KVD
+add_core = KVD
+trade_goods = timber
+life_rating = 31

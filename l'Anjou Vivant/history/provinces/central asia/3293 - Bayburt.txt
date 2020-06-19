@@ -1,0 +1,7 @@
+owner = PER
+controller = PER
+add_core = PER
+add_core = ARM
+trade_goods = fruit
+terrain = old_world_grassland_hills_medium
+life_rating = 35

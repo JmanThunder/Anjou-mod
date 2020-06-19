@@ -1,0 +1,8 @@
+owner = CST
+controller = CST
+add_core = CUB
+trade_goods = fish
+life_rating = 30
+
+terrain = americas_jungle_mountains
+is_slave = yes

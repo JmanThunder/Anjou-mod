@@ -1,0 +1,21 @@
+owner = POR
+controller = POR
+add_core = LST
+trade_goods = fruit
+life_rating = 35
+
+add_core = MSC
+terrain = americas_fl_marsh
+naval_base = 1
+is_slave = yes
+
+party_loyalty = {
+	ideology = conservative
+	loyalty_value = 15
+}
+1861.1.1 = {
+	colonial = 0
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+}

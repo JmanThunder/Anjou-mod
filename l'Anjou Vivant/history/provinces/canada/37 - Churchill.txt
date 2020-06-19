@@ -1,0 +1,7 @@
+owner = FCA
+controller = FCA
+add_core = FCA
+trade_goods = fish
+terrain = americas_boreal
+life_rating = 10
+

@@ -1,0 +1,5 @@
+owner = ATQ
+controller = ATQ
+add_core = ATQ
+trade_goods = grain
+life_rating = 35

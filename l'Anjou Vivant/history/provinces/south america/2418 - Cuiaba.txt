@@ -1,0 +1,5 @@
+owner = ATQ
+controller = ATQ
+add_core = ATQ
+trade_goods = fruit
+life_rating = 25

@@ -1,0 +1,8 @@
+owner = FRA
+controller = FRA
+add_core = CRB
+trade_goods = fruit
+life_rating = 35
+
+terrain = americas_tropical_small_island
+naval_base = 1

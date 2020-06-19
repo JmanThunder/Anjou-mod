@@ -1,0 +1,10 @@
+owner = ATQ
+controller = ATQ
+add_core = ATQ
+add_core = GUY
+trade_goods = fruit
+terrain = plains
+life_rating = 32
+
+naval_base = 1
+1861.1.1 = { railroad = 1 }

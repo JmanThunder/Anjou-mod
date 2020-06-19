@@ -1,0 +1,8 @@
+owner = BEN
+controller = BEN
+add_core = BEN
+add_core = CLA
+
+trade_goods = fish
+
+life_rating = 30

@@ -1,0 +1,11 @@
+owner = MLI
+controller = MLI
+add_core = MLI
+
+add_core = SEG
+
+trade_goods = fruit
+
+terrain = semidesert
+
+life_rating = 32

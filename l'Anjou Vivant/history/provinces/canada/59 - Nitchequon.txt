@@ -1,0 +1,6 @@
+owner = FCA
+controller = FCA
+add_core = FCA
+trade_goods = timber
+life_rating = 20
+terrain = americas_boreal

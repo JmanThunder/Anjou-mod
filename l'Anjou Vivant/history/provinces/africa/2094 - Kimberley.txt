@@ -1,0 +1,7 @@
+owner = NET
+controller = NET
+trade_goods = grain
+add_core = SAF
+terrain = steppe
+life_rating = 15
+

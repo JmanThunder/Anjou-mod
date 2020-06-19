@@ -1,0 +1,11 @@
+owner = FCA
+controller = FCA
+add_core = FCA
+add_core = NEN
+add_core = QUE
+trade_goods = grain
+life_rating = 30
+
+terrain = americas_northern_forest_hills
+
+1861.1.1 = { railroad = 2 }

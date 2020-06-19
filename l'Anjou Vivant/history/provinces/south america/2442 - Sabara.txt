@@ -1,0 +1,5 @@
+owner = ATQ
+controller = ATQ
+add_core = ATQ
+trade_goods = coffee
+life_rating = 31

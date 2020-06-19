@@ -1,0 +1,10 @@
+owner = MLI
+controller = MLI
+add_core = MLI
+
+add_core = ADW
+
+trade_goods = timber
+
+life_rating = 10
+

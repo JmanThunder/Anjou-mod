@@ -1,0 +1,7 @@
+owner = CST
+controller = CST
+add_core = UCA
+add_core = GUA
+trade_goods = timber
+life_rating = 32
+terrain = americas_jungle

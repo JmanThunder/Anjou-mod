@@ -1,0 +1,12 @@
+owner = ULM
+controller = ULM
+add_core = ULM
+add_core = GER
+trade_goods = grain
+life_rating = 40
+1861.1.1 = {
+	controller = PRU
+	owner = PRU
+	add_core = PRU
+	remove_core = SGM
+}

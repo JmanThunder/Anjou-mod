@@ -1,0 +1,13 @@
+owner = FCA
+controller = FCA
+add_core = FCA
+trade_goods = grain
+life_rating = 30
+terrain = americas_cold_desert
+
+
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	
+}

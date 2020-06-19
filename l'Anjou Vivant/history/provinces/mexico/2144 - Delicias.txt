@@ -1,0 +1,7 @@
+owner = POR
+controller = POR
+add_core = LST
+add_core = RGR
+trade_goods = cattle
+life_rating = 30
+terrain = americas_dryhills

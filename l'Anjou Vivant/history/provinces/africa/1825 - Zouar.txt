@@ -1,0 +1,11 @@
+owner = MLI
+controller = MLI
+add_core = MLI
+
+add_core = KBO
+
+trade_goods = cattle
+
+life_rating = 5
+
+

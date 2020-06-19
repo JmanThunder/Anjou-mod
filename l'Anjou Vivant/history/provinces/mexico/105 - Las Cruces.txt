@@ -1,0 +1,18 @@
+owner = POR
+controller = POR
+add_core = LST
+add_core = CMC
+add_core = TEX
+
+trade_goods = cattle
+life_rating = 35
+
+terrain = americas_high_montane_forest
+
+1861.1.1 = {
+	controller = USA
+	owner = USA
+	add_core = USA
+	remove_core = MEX
+	colonial = 0
+}

@@ -1,0 +1,9 @@
+owner = KVD
+controller = KVD
+add_core = KVD
+trade_goods = tropical_wood
+life_rating = 15
+1861.1.1 = {
+	owner = CLM
+	controller = CLM
+}

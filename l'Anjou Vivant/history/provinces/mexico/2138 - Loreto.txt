@@ -1,0 +1,8 @@
+owner = POR
+controller = POR
+add_core = LST
+add_core = SON
+trade_goods = fish
+life_rating = 30
+terrain = americas_hot_desert
+

@@ -1,0 +1,12 @@
+add_core = RPL
+trade_goods = fish
+life_rating = 10
+terrain = americas_montane_tundra
+
+
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = RPL
+	
+}

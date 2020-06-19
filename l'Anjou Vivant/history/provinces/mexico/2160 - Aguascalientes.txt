@@ -1,0 +1,7 @@
+owner = POR
+controller = POR
+add_core = LST
+trade_goods = iron
+life_rating = 35
+terrain = americas_temp_mountain
+

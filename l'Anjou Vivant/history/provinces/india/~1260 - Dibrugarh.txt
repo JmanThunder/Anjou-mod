@@ -1,0 +1,13 @@
+owner = MAH
+controller = MAH
+add_core = MAH
+add_core = HND
+add_core = ASM
+trade_goods = fruit
+life_rating = 32
+terrain = jungle_mountains
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	
+}

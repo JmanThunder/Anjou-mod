@@ -1,0 +1,7 @@
+owner = CST
+controller = CST
+add_core = CST
+add_core = PTG
+trade_goods = cattle
+terrain = dryhills
+life_rating = 15

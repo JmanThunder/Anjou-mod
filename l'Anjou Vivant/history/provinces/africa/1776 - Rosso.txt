@@ -1,0 +1,10 @@
+owner = MLI
+controller = MLI
+add_core = MLI
+add_core = TRZ
+
+trade_goods = wool
+
+terrain = semidesert
+
+life_rating = 15

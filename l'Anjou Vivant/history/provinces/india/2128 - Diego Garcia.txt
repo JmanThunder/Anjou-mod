@@ -1,0 +1,8 @@
+owner = NET
+controller = NET
+add_core = IOT
+trade_goods = fish
+life_rating = 32
+
+terrain = coral_island
+naval_base = 2

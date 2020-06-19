@@ -1,0 +1,4 @@
+owner = CST
+controller = CST
+add_core = CST
+trade_goods = cattlelife_rating = 15

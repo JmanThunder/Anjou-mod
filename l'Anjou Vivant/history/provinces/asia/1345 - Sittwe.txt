@@ -1,0 +1,9 @@
+owner = DLH
+controller = DLH
+add_core = DLH
+add_core = MAH
+add_core = BUR
+trade_goods = grain
+life_rating = 35
+
+terrain = jungle_hills

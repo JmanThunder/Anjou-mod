@@ -1,0 +1,5 @@
+owner = CST
+controller = CST
+add_core = CST
+trade_goods = wool
+life_rating = 15

@@ -1,0 +1,8 @@
+owner = PER
+controller = PER
+add_core = PER
+add_core = KWT
+add_core = NEJ
+trade_goods = fish
+life_rating = 35
+terrain = semidesert

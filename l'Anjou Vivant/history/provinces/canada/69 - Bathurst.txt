@@ -1,0 +1,15 @@
+owner = FCA
+controller = FCA
+add_core = FCA
+add_core = ACA
+add_core = MRU
+add_core = NEN
+add_core = NBR
+trade_goods = cattle
+life_rating = 30
+
+terrain = americas_northern_forest_hills
+
+1861.1.1 = {
+	remove_core = NEN
+}

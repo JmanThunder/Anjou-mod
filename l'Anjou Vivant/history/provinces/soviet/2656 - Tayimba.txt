@@ -1,0 +1,8 @@
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+add_core = KHI
+trade_goods = grain
+life_rating = 25
+
+

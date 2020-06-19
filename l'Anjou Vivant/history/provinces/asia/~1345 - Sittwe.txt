@@ -1,0 +1,8 @@
+owner = MAH
+controller = MAH
+add_core = MAH
+add_core = BUR
+trade_goods = grain
+life_rating = 35
+
+terrain = jungle_hills

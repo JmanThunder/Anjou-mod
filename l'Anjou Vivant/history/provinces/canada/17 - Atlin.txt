@@ -1,0 +1,7 @@
+owner = FCA
+controller = FCA
+add_core = FCA
+trade_goods = timber
+terrain = americas_montane_tundra
+life_rating = 15
+

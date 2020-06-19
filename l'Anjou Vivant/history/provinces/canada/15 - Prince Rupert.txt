@@ -1,0 +1,7 @@
+owner = FCA
+controller = FCA
+add_core = FCA
+trade_goods = fish
+life_rating = 20
+terrain = americas_high_montane_forest
+

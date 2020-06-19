@@ -1,0 +1,10 @@
+owner = POR
+controller = POR
+add_core = LST
+add_core = CMC
+add_core = TEX
+
+terrain = americas_steppe
+
+trade_goods = fish
+life_rating = 15

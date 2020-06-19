@@ -1,0 +1,8 @@
+owner = TIB
+controller = TIB
+add_core = TIB
+add_core = BUR
+add_core = SHA
+trade_goods = opium
+life_rating = 32
+terrain = jungle_mountains

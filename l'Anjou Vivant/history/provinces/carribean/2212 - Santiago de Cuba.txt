@@ -1,0 +1,8 @@
+owner = CST
+controller = CST
+add_core = CUB
+trade_goods = coffee
+life_rating = 35
+
+terrain = americas_dry_forest
+is_slave = yes

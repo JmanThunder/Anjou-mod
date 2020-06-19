@@ -1,0 +1,15 @@
+owner = MAH
+controller = MAH
+add_core = MAH
+add_core = PNJ
+add_core = MUG
+add_core = HND
+trade_goods = wool
+life_rating = 32
+
+terrain = montane_forest
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	
+}

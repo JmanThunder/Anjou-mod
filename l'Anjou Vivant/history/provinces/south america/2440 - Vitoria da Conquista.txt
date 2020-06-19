@@ -1,0 +1,6 @@
+owner = ATQ
+controller = ATQ
+add_core = ATQ
+trade_goods = coffee
+terrain = dryhills
+life_rating = 35

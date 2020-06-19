@@ -1,0 +1,11 @@
+owner = ALL
+controller = ALL
+add_core = ALL
+add_core = ALD
+trade_goods = wool
+life_rating = 10
+1861.1.1 = {
+	owner = FRA
+	controller = FRA
+	
+}

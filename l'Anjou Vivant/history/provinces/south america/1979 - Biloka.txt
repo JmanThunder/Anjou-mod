@@ -1,0 +1,8 @@
+owner = ATQ
+controller = ATQ
+add_core = ATQ
+add_core = GUY
+terrain = new_world_jungle
+trade_goods = tropical_wood
+life_rating = 15
+

@@ -1,0 +1,15 @@
+owner = FCA
+controller = FCA
+add_core = FCA
+trade_goods = fish
+life_rating = 35
+
+terrain = americas_northern_forest
+
+1861.1.1 = {
+	colonial = 0
+	owner = USA
+	controller = USA
+	add_core = USA
+	remove_core = CAN
+}

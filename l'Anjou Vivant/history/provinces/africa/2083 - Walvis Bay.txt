@@ -1,0 +1,7 @@
+owner = NET
+controller = NET
+add_core = NMB
+terrain = semidesert
+trade_goods = wool
+life_rating = 10
+

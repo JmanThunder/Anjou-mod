@@ -1,0 +1,15 @@
+owner = POR
+controller = POR
+add_core = LST
+add_core = CAL
+trade_goods = fruit
+life_rating = 35
+
+terrain = americas_high_montane_forest
+1861.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	remove_core = MEX
+	colonial = 0
+}

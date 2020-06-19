@@ -1,0 +1,9 @@
+owner = PER
+controller = PER
+add_core = PER
+add_core = HTY
+add_core = IRQ
+add_core = ASY
+trade_goods = sulphur
+life_rating = 35
+

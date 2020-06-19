@@ -1,0 +1,6 @@
+owner = POR
+controller = POR
+add_core = LST
+trade_goods = cattle
+life_rating = 35
+terrain = americas_dry_forest

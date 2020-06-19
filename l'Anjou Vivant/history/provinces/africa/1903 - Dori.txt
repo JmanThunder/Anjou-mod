@@ -1,0 +1,9 @@
+owner = MLI
+controller = MLI
+add_core = MLI
+add_core = MOS
+trade_goods = grain
+
+terrain = semidesert
+
+life_rating = 32

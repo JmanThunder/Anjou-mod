@@ -1,0 +1,21 @@
+owner = POR
+controller = POR
+add_core = LST
+trade_goods = cattle
+life_rating = 35
+terrain = americas_coastal_plains
+is_slave = yes
+
+1861.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+	add_core = USA
+	remove_core = MEX
+	state_building = {
+		level = 1
+		building = canned_food_factory
+		upgrade = yes
+	}
+}
+1861.1.1 = { railroad = 2 }

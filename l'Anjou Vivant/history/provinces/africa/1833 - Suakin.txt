@@ -1,0 +1,7 @@
+owner = ALL
+controller = ALL
+add_core = ALL
+add_core = EGY
+add_core = SUD
+trade_goods = tropical_wood
+life_rating = 30

@@ -1,0 +1,8 @@
+owner = ALL
+controller = ALL
+add_core = ALL
+add_core = EGY
+add_core = SHK
+add_core = SUD
+trade_goods = cattle
+life_rating = 34

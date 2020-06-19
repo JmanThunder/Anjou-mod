@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+trade_goods = fruit
+life_rating = 35
+
+terrain = americas_tropical_small_island

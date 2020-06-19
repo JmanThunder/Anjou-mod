@@ -1,0 +1,8 @@
+owner = FRA
+controller = FRA
+add_core = GDL
+trade_goods = fish
+life_rating = 30
+
+terrain = americas_tropical_small_island
+is_slave = yes

@@ -1,0 +1,6 @@
+owner = GOL
+controller = GOL
+add_core = GOL
+add_core = DON
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,7 @@
+owner = KVD
+controller = KVD
+add_core = KVD
+trade_goods = fruit
+terrain = new_world_jungle
+life_rating = 31
+
